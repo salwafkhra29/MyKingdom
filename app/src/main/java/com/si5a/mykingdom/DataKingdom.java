@@ -45,15 +45,15 @@ public class DataKingdom {
 
             {"Kerajaan Tarumanegara",
 
-            }
+            },
 
             {"Kerajaan Sunda Galuh",
 
-            }
+            },
 
             {"Kerajaan Kalingga",
 
-            }
+            },
 
             {"Kerajaan Kanjuruhan",
 
