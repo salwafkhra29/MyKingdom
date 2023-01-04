@@ -15,12 +15,9 @@ public class DataKingdom {
                     "Situs Sri Bangun ini hingga sekarang tetap di keramatkan penduduk Kutai Kartanegara, karena dipercaya Kerajaan Sri Bangun yang memang misterius tersebut, hingga kini masih ada secara gaib.\n" +
                     "Banyak warga yang telah melihat bayangan Istana megah di wilayah pada waktu-waktu tertentu, terkadang pula ditemukan beberapa lelaki dan wanita misterius yang apabila diikuti menghilang begitu saja.\n"}
 
-            {"Kerajaan Wijayapura","\"Kerajaan Wijayapura adalah kerajaan yang berdiri pada abad ke-7 di Kalimantan Barat dan terletak di sekitar Sungai Rejang. Dugaan telah ada kerajaan yang berdiri pada sekitar abad ke-6 atau 7 di Kalimantan Barat ini karena ditemukannya benda-benda kuno bercorak Hindu seperti patung atau gerabah.\n"
-            "Temuan Sambas atau Harta Karun Sambas adalah benda temuan arkeologi berharga berupa artefak arca-arca Buddha berbahan emas, perak, dan perunggu yang ditemukan di Kota Sambas di Kalimantan Barat yang kini menjadi koleksi British Museum di London, Inggris. Patung-patung yang ditemukan tersebut diperkirakan dibuat di Jawa"}
+            {"Kerajaan Wijayapura","Pada abad ke-7 di bagian utara Kalimantan Barat terdapat kerajaan yang bercorak Hindu-Budha, yaitu kerajaan Wijayapura yang dilanjutkan Kerajaan Nek Riuh (13 M – 14 M), Kerajaan Tan Unggal (15 M), dan Panembahan Sambas pada abad 16 M. Keempat kerajaan tersebut murni bercorak Hindu-Budha, tapi masuknya agama Islam di Kalimantan Barat, Panembahan Sambas merupakan kerajaan terakhir di utara Kalimantan Barat.Kerajaan Sambas sebenarnya merupakan koloni dari Kerajaan Bakulapura, kemudian menjadi koloni dari Kerajaan Tanjungpura, yaitu Kerajaan bawahan Majapahit di Pulau Kalimantan. Di dalam Pupuh XIII dan XIV dari kitab Negarakertagama disebutkan bahwa Kerajaan Majapahit menguasai hampir seluruh Nusantara tak terkecuali kerajaan-kerajaan di Pulau Kalimantan.Kerajaan Sambas sebenarnya merupakan koloni dari Kerajaan Bakulapura, kemudian menjadi koloni dari Kerajaan Tanjungpura, yaitu Kerajaan bawahan Majapahit di Pulau Kalimantan. Di dalam Pupuh XIII dan XIV dari kitab Negarakertagama disebutkan bahwa Kerajaan Majapahit menguasai hampir seluruh Nusantara tak terkecuali kerajaan-kerajaan di Pulau Kalimantan. Raja pertama Kerajaan Panembahan Sambas adalah ayah dari Ratu Timbang Paseban yang tidak diketahui namanya. Setelah sang raja mangkat, Ratu Timbang Paseban kemudian diangkat sebagai pewaris tahta. Dari Ratu Timbang Paseban kemudian tahta turun kepada Ratu Sapudak adiknya. Sebutan ratu adalah kebiasaan penyebutan di Jawa yang memiliki arti sama dengan raja pria. Jadi ratu yang dimaksudkan bukan raja bergender wanita. Peninggalan Kerajaan Wijayapura ialah ; Arca Budha emas di Sambas, Arca Budha perak di Sambas, Arca Budha perunggu di Sambas"}
 
-            {"Kerajaan Bakulapura",
-
-            }
+            {"Kerajaan Bakulapura",""}
 
             {"Brunei Buddha",
 
@@ -44,28 +41,20 @@ public class DataKingdom {
 
             {"Kerajaan Tarumanegara",
 
-            },
+            }
 
             {"Kerajaan Sunda Galuh",
 
-            },
+            }
 
             {"Kerajaan Kalingga",
-
-            },
-
-            {"Kerajaan Kanjuruhan",
 
             }
             
             {"Kerajaan Kahuripan",
 
             }
-
-            {"Kerajaan Janggala",
-
-            }
-
+            
             {"Kerajaan Kadiri",
 
             }
