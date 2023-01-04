@@ -15,9 +15,8 @@ public class DataKingdom {
                     "Situs Sri Bangun ini hingga sekarang tetap di keramatkan penduduk Kutai Kartanegara, karena dipercaya Kerajaan Sri Bangun yang memang misterius tersebut, hingga kini masih ada secara gaib.\n" +
                     "Banyak warga yang telah melihat bayangan Istana megah di wilayah pada waktu-waktu tertentu, terkadang pula ditemukan beberapa lelaki dan wanita misterius yang apabila diikuti menghilang begitu saja.\n"}
 
-            {"Kerajaan Wijayapura",
-
-            }
+            {"Kerajaan Wijayapura","\"Kerajaan Wijayapura adalah kerajaan yang berdiri pada abad ke-7 di Kalimantan Barat dan terletak di sekitar Sungai Rejang. Dugaan telah ada kerajaan yang berdiri pada sekitar abad ke-6 atau 7 di Kalimantan Barat ini karena ditemukannya benda-benda kuno bercorak Hindu seperti patung atau gerabah.\n"
+            "Temuan Sambas atau Harta Karun Sambas adalah benda temuan arkeologi berharga berupa artefak arca-arca Buddha berbahan emas, perak, dan perunggu yang ditemukan di Kota Sambas di Kalimantan Barat yang kini menjadi koleksi British Museum di London, Inggris. Patung-patung yang ditemukan tersebut diperkirakan dibuat di Jawa"}
 
             {"Kerajaan Bakulapura",
 
